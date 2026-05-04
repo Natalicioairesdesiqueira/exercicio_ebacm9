@@ -23,7 +23,7 @@ Como usar
 Clone o repositório:
 
 Bash
-git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https:/
+git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
 
 Navegue até a pasta do projeto:
 
